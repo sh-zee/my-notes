@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/SQL vs Document.md",
+                "file": "System Design/Graph model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL vs Document"
+              "title": "Graph model"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "53e46bf525fb6fa1",
   "lastOpenFiles": [
+    "System Design/SQL vs Document vs Graph.md",
+    "System Design/Graph model.md",
     "System Design/CAP.md",
-    "System Design/SQL vs Document.md",
     "System Design/1. Sale ablility.md",
     "System Design/3 - KEYS Scaleability, Reliability and Maintain ability.md",
     "System Design",
