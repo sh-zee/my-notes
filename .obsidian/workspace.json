@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "382f794fa12db4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2ae4182ebcaab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53e46bf525fb6fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/CAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb0ce14d37dab865",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3fb5380f11f1251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a809d63d9cbd25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c1c682e080c9cda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f87361cbfbffea8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "e6f007d9eb3b8ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1081578333733578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e598853b61511f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Frontend"
+            }
+          },
+          {
+            "id": "4950874cfc5be731",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frontend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Frontend"
+            }
+          },
+          {
+            "id": "08d3d65d99262371",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6187b51b7505d661",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frontend.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Frontend"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "53e46bf525fb6fa1",
+  "lastOpenFiles": [
+    "System Design/1. Sale ablility.md",
+    "System Design/CAP.md",
+    "System Design/3 - KEYS Scaleability, Reliability and Maintain ability.md",
+    "System Design",
+    "Rust/Basics.md",
+    "Rust",
+    "2025-10-18.md",
+    "Politics/Punjab.md",
+    "Untitled.base",
+    "Frontend.md",
+    "Untitled.canvas",
+    "Politics/KPK.md",
+    "Politics/Pakistan politics.md",
+    "Politics",
+    "Welcome.md",
+    "2025-09-16.md"
+  ]
+}
