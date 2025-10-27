@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Graph model.md",
+                "file": "System Design/Data-Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph model"
+              "title": "Data-Engine"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "53e46bf525fb6fa1",
   "lastOpenFiles": [
-    "System Design/SQL vs Document vs Graph.md",
-    "System Design/Graph model.md",
-    "System Design/CAP.md",
     "System Design/1. Sale ablility.md",
     "System Design/3 - KEYS Scaleability, Reliability and Maintain ability.md",
+    "System Design/CAP.md",
+    "System Design/Data-Engine.md",
+    "System Design/Graph model.md",
+    "System Design/SQL vs Document vs Graph.md",
+    "LSM-Tree strcture.png",
     "System Design",
     "Rust/Basics.md",
     "Rust",
